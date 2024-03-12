@@ -13,7 +13,7 @@ This project focuses on analyzing the UCI Heart Disease dataset, which consists 
 - **Blood Pressure and Cholesterol Analysis:** Visualize distribution of blood pressure and cholesterol levels and their relationship with heart disease.
 - **Heart Rate Analysis:** Analyze distribution of maximum heart rates achieved and its correlation with heart disease.
 - **Angina and Exercise Analysis:** Explore relationship between exercise-induced angina and heart disease, and analyze ST depression induced by exercise.
-- **Visualization:** Create visualizations (e.g., bar charts, histograms) to represent key insights.
+- **Visualization:** Create visualizations (e.g. bar charts, histograms) to represent key insights.
 
 ## Conclusion
 - There is no correlation among numeric columns.
